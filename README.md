@@ -1,3 +1,6 @@
+<p align="center"><a href="#zh">🇨🇳 中文</a> &nbsp;|&nbsp; <a href="#en">🇬🇧 English</a></p>
+<a id="zh"></a>
+
 # 舞蹈数据集
 
 ## 原始数据
@@ -30,6 +33,8 @@ raw BVH/SMPL-X/源机器人 CSV
 ```
 
 训练数据必须和 policy 的 joint/body order 完全一致；只看数组 shape 通过不算验收。
+
+<a id="en"></a>
 
 ## English
 
